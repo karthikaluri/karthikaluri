@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @karthikaluri
-- 👀 I’m interested in coding in c
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in coding in c and python
+- 🌱 I’m currently learning webdevelopment
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me alurikarthikeyasarma2005@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns:He/Him 
 - ⚡ Fun fact: 
 
 <!---
